@@ -608,7 +608,7 @@ progress {
 
 .img-fluid-1 {
   max-width: 100%;
-  height: 450px;
+  height: 100%;
 }
 
 .img-thumbnail {
@@ -11469,7 +11469,7 @@ header.masthead .masthead-heading {
   }
 }
 #portfolio .portfolio-item {
-  max-width: 20rem;
+  max-width: 15rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -11723,8 +11723,8 @@ header.masthead .masthead-heading {
   text-align: center;
 }
 .team-member img {
-  width: 250px;
-  height: 300px;
+  width: 200px;
+  height: 250px;
   border: 0.1rem solid rgba(0, 0, 0, 0.0);
 }
 .team-member .img1 {
